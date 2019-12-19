@@ -1,5 +1,5 @@
 ## JSON Log Parser
-This project aims to parse the big json log files exported from GCloud in order to find
+This project aims to parse big json log files exported from GCloud in order to find
 the required logs.
 
 ## Compiling
