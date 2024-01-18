@@ -17,5 +17,5 @@ java -jar <jar-file-name>.jar <log-file-name-1> <...> <search-term>
 
 Log files should be in the same directory as the Jar file.
 
-## Licensing
+## License
 CC-BY-NC.
