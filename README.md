@@ -18,4 +18,5 @@ java -jar <jar-file-name>.jar <log-file-name-1> <...> <search-term>
 Log files should be in the same directory as the Jar file.
 
 ## License
-CC-BY-NC.
+
+GCP Log Parser © 2019-2024 by Arda Karaderi is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
